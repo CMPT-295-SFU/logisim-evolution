@@ -34,7 +34,7 @@ import java.util.Arrays;
 import java.util.Collections;
 import java.util.List;
 
-import edu.cornell.cs3410.Components;
+import edu.sfu.cs295.Components;
 import com.bfh.logisim.library.BFHPraktika;
 import com.cburch.logisim.std.arith.Arithmetic;
 import com.cburch.logisim.std.base.Base;
